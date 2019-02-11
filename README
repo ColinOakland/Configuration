@@ -1,0 +1,13 @@
+The goal of this project is to teach basic configuration management techniques
+using git.
+
+==Program==
+
+The program is written in java, it prints the song 99 bottles of beer on the wall.
+
+==Configuration Management==
+
+Configuration management is done using git. There are 2 branches of this project:
+	-interface
+	-implementation
+
