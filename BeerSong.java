@@ -1,11 +1,11 @@
 public class BeerSong{
 
-	public void main(String[] args)
+	public static void main(String[] args)
 	{
-
+	Ninety_Nine_Bottles_of_Beer();
 	}
 
-	public void Ninety_Nine_Bottles_of_Beer()
+	public static void Ninety_Nine_Bottles_of_Beer()
 	{
 	int bottles=99;
     	while(bottles-1>0)
